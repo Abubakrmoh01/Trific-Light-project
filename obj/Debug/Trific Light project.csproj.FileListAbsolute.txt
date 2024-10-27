@@ -1,0 +1,11 @@
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific Light project.csproj.AssemblyReference.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific_Light_project.ctrlTriaficLight.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific_Light_project.Form1.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific_Light_project.Properties.Resources.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific Light project.csproj.GenerateResource.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific Light project.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\bin\Debug\Trific Light project.exe.config
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\bin\Debug\Trific Light project.exe
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\bin\Debug\Trific Light project.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific Light project.exe
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Trific Light project\obj\Debug\Trific Light project.pdb
